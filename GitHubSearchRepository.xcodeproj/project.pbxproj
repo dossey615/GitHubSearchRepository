@@ -31,6 +31,7 @@
 		E3BE7B2423D82BC3007B1B8A /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E3BE7B2623D82DD6007B1B8A /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 		E3BE7B2823D83195007B1B8A /* SearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResponse.swift; sourceTree = "<group>"; };
+		E3BE7B2B23D8370F007B1B8A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +50,7 @@
 			children = (
 				E3BE7B1C23D82B59007B1B8A /* GitHubSearchRepository */,
 				E3BE7B1B23D82B59007B1B8A /* Products */,
+				E3BE7B2B23D8370F007B1B8A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
